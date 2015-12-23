@@ -1,0 +1,9 @@
+member:
+  - id: 100
+    first_name: Scott
+    last_name: Adams
+    age: 30
+  - id: 101
+    first_name: Clark
+    last_name: Kent
+    age: 31

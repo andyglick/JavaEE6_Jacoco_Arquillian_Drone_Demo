@@ -1,0 +1,5 @@
+member:
+  - id: 100
+    first_name: John
+    last_name: Smith
+    age: 30
